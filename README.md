@@ -113,6 +113,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name / Username - [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) - email@example.com
-
-Project Link: [https://github.com/YOUR_USERNAME/Gemini-Studio-UI](https://github.com/YOUR_USERNAME/Gemini-Studio-UI)
+Project Link: [https://github.com/Milky-99/GeminiAdvancedUI](https://github.com/Milky-99/GeminiAdvancedUI)
