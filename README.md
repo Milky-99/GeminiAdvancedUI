@@ -2,7 +2,7 @@
 
 A desktop UI for interacting with the Google Gemini API, featuring multi-API key management, prompt management, and advanced wildcard support.
 
-![Screenshot](path/to/your/screenshot.png)  <!-- Optional: Add a screenshot later -->
+![Screenshot](Screenshot 2025-06-20 110156.png)  
 
 ## About The Project
 
