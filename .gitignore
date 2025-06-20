@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually dist/ and build/ would be enough, but lets be explicit
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+venv/
+env/
+ENV/
+# Anaconda
+.conda/
+conda-meta/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Application-specific
+# Add your application's data and log folders
+data/logs/
+*.log
+data/api_keys/
+keys.json # IMPORTANT: Do not commit your API keys file
+data/settings/
+app_settings.json # Often user-specific, good to ignore
+
+# Other
+.DS_Store
+Thumbs.db
