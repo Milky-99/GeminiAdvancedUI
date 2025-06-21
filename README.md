@@ -92,7 +92,7 @@ Follow these steps to get a local copy up and running.
 -   [ ] Enhance the Wildcard Manager with more robust scoring and editing features.
 -   [ ] Create packaged releases for Windows, macOS, and Linux.
 
-See the [open issues](https://github.com/YOUR_USERNAME/Gemini-Studio-UI/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Milky-99/Gemini-Studio-UI/issues) for a full list of proposed features (and known issues).
 
 ## Contributing
 
